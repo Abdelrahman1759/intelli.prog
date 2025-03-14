@@ -1,1 +1,1 @@
-task 3 forr intelligent programming
+task 3 for intelligent programming
